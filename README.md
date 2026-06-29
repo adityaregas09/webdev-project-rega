@@ -1,6 +1,6 @@
 # Web Programming Portfolio 🌐
 
-> Frontend development projects showcasing modern web design principles with HTML5, CSS3, and responsive design techniques.
+> Fullstack development projects showcasing modern web design principles with HTML5, CSS3, and responsive design techniques.
 
 **Author:** Aditya Rega Safi'i  
 **Status:** Ongoing (2026)  
@@ -12,18 +12,13 @@
 
 This repository showcases my web programming learning journey through hands-on projects. Each project demonstrates practical application of HTML5, CSS3, and responsive design principles learned in the Dicoding Web Programming course.
 
-**Who is this for?**
-- Frontend developers learning modern web design
-- Students studying responsive web development
-- Anyone looking for HTML/CSS project examples
-- Recruiters evaluating web development skills
-
 ---
 
 ## 🎯 Objectives
 
 - ✅ Master semantic HTML5 structure
 - ✅ Build responsive layouts with CSS3 (Flexbox & Grid)
+- ✅ Build additional responsive with JavaScript
 - ✅ Implement mobile-first design approach
 - ✅ Create professional, user-friendly web interfaces
 - ✅ Develop problem-solving skills through real projects
