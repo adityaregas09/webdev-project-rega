@@ -30,10 +30,10 @@ This repository showcases my web programming learning journey through hands-on p
 ```
 web-programming-portfolio/
 ├── projects/
-│   ├── 1-personal-portfolio/
+│   ├── 1-web-tracker/
 │   │   ├── index.html
-│   │   ├── style.css
-│   │   └── README.md
+│   │   ├── main.js
+│   │   └── style.css
 │   ├── 2-landing-page/
 │   │   ├── index.html
 │   │   ├── style.css
